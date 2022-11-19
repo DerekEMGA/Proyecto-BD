@@ -20,9 +20,9 @@ Public Class Login
 
         Catch ex As Exception
 
-            estado = "desconectado"
-            Txt_Usuario.Text = ""
-            Txt_Contraseña.Text = ""
+            estado = "La interfaz no esta activa"
+            Txt_Usuario.Text = "LLENAR"
+            Txt_Contraseña.Text = "LLENAR"
 
         End Try
     End Sub
