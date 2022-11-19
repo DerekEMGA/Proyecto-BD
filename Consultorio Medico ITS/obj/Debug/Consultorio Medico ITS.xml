@@ -1,0 +1,401 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Consultorio Medico ITS
+</name>
+</assembly>
+<members>
+<member name="T:Consultorio_Medico_ITS.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Consultorio_Medico_ITS.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Consultorio_Medico_ITS.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Consultorio_Medico_ITS.My.Resources.Resources.Horizon_Zero_Dawn__Complete_Edition_20200705181056">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Consultorio_Medico_ITS.My.Resources.Resources.Horizon_Zero_Dawn__Complete_Edition_20200705211234">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Consultorio_Medico_ITS.My.Resources.Resources.Icono_Base">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Consultorio_Medico_ITS.My.Resources.Resources.tec">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Consultorio_Medico_ITS.My.Resources.Resources.WhatsApp_Image_2022_01_25_at_4_05_39_PM">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet.RevisionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet.RevisionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet.RevisionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.RevisionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Consultorio_Medico_ITS.consultorio_medicoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Consultorio_Medico_ITS.consultorio_medicoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Consultorio_Medico_ITS.consultorio_medicoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.TableAdapterManager.UpdateAll(Consultorio_Medico_ITS.consultorio_medicoDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.AlumnoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.CitasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.DepartamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.EnfermerosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.EspecialidadDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.MaestroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.Medicamentos_AlmacenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.Medicamentos_RecetaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.MedicosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.RecetaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.RevisionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.UsuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.AlumnoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.CitasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.DepartamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.EnfermerosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.EspecialidadRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.MaestroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.Medicamentos_AlmacenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.Medicamentos_RecetaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.MedicosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.RecetaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.RevisionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.UsuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.AlumnoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.CitasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.DepartamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.EnfermerosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.EspecialidadRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.MaestroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.Medicamentos_AlmacenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.Medicamentos_RecetaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.MedicosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.RecetaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.RevisionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1.UsuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.AlumnoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.CitasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.DepartamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.EnfermerosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.EspecialidadTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.MaestroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.Medicamentos_AlmacenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.Medicamentos_RecetaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.MedicosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.RecetaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.RevisionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.UsuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Consultorio_Medico_ITS.consultorio_medicoDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Consultorio_Medico_ITS.consultorio_medicoDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Consultorio_Medico_ITS.consultorio_medicoDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.TableAdapterManager.UpdateAll(Consultorio_Medico_ITS.consultorio_medicoDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Consultorio_Medico_ITS.consultorio_medicoDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

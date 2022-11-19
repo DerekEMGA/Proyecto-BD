@@ -1,0 +1,38 @@
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\bin\Debug\Consultorio Medico ITS.exe.config
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\bin\Debug\Consultorio Medico ITS.exe
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\bin\Debug\Consultorio Medico ITS.pdb
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\bin\Debug\Consultorio Medico ITS.xml
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio Medico ITS.vbproj.AssemblyReference.cache
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio Medico ITS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Resources.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio Medico ITS.vbproj.GenerateResource.cache
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio Medico ITS.vbproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio Medico ITS.exe
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio Medico ITS.xml
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio Medico ITS.pdb
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Login.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Principal.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Carreras_Insertar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Carreras_Editar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Carreras_Ver.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Alumnos_Insertar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Alumnos_Editar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Alumnos_Ver.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Departamento_Insertar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Departamento_Editar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Departamento_Ver.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Medicos_Editar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Medicos_Insertar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Medicos_Ver.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Medicamentos_Editar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Medicamentos_Insertar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Medicamentos_Ver.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Form_Citas_Editar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Form_Citas_Insertar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Form_Citas_Ver.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Profesores_Editar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Profesores_Insertar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Profesores_Ver.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Consultas_Insertar.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Consultas_Ver.resources
+C:\Users\gonza\Desktop\Derek Pc\Semestre 6\Adm-Base de Datos\Proyecto 1 Consultas medicas en el its\Visual Basic\Consultorio Medico ITS\obj\Debug\Consultorio_Medico_ITS.Forms_Consulta_Insertar_Proxima.resources
